@@ -1,0 +1,50 @@
+[heading]Description[/heading]
+Unlocks the debug menu the developer already built into the game but left disabled. This mod doesn't add anything new, it just flips it back on.
+
+[line]
+
+[heading]Installation Instructions[/heading]
+[list=1]
+[*]Requires Godot Mod Loader to be installed first.
+[*]Place the .zip file inside [b]AboutFishing/mods/[/b] (create the folder next to the exe if it doesn't exist).
+[/list]
+
+[line]
+
+[heading]Main Features[/heading]
+[list]
+[*]Load scenes
+[*]Spawn items and fish
+[*]Camera controls
+[/list]
+
+[line]
+
+[heading]Usage[/heading]
+Press F1:
+[list]
+[*]While in-game: opens camera and cinematic controls.
+[*]While paused: opens teleport, item & fish spawning, and story/save controls.
+[/list]
+
+When spawning an item, close the debug menu and open your inventory to place the obtained item.
+
+[line]
+
+[heading]Known Issues[/heading]
+[list]
+[*]Loading a new scene from some locations sometimes triggers an unrecoverable error. Workaround: always load scenes from outside a "Building" scene.
+[*]Talking to "Nathan" in the test scene causes an unrecoverable null reference error. His dialogue was reused from Joshua, and the camera referenced by that dialogue has since been renamed.
+[/list]
+
+[line]
+
+[heading]Requirements[/heading]
+[list]
+[*]Godot Mod Loader: [url=https://github.com/GodotModding/godot-mod-loader]GodotModding/godot-mod-loader[/url]
+[/list]
+
+[line]
+
+[heading]Shout Outs[/heading]
+Thanks to the developer for building this menu into the game in the first place. All this mod does is unlock the ability to use it.

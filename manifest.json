@@ -1,0 +1,21 @@
+{
+	"name": "DebugUnlocker",
+	"namespace": "RougeShadow",
+	"version_number": "1.0.1",
+	"description": "Unlocks the debug/Load Cave menu.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": ["RougeShadow"],
+			"tags": ["debug"],
+			"description_rich": "",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [],
+			"compatible_mod_loader_version": ["7.0.1"],
+			"compatible_game_version": ["0.0.0"],
+			"config_schema": {}
+		}
+	}
+}
