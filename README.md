@@ -6,8 +6,7 @@ Fill Description
 
 ![Header](Header.png)
 
-[Nexus Mods page](https://www.nexusmods.com/mods/2?game_id=9610) (pending approval, publishes once the game
-itself is approved on Nexus).
+[Nexus Mods page](https://www.nexusmods.com/aboutfishing/mods/2)
 
 Unlocks the debug menu the developer already built into About Fishing but left disabled. This mod doesn't add
 anything new, it just flips it back on.

@@ -46,5 +46,21 @@ When spawning an item, close the debug menu and open your inventory to place the
 
 [line]
 
+[heading]Related Mods & Links[/heading]
+[b]GitHub[/b]
+[url=https://github.com/Dsiman/RougeShadow-ModLoaderConfig]Git-RougeShadow-ModLoaderConfig[/url]
+[url=https://github.com/Dsiman/RougeShadow-DebugUnlocker]Git-RougeShadow-DebugUnlocker[/url]
+[url=https://github.com/Dsiman/RougeShadow-DebugConsole]Git-RougeShadow-DebugConsole[/url]
+[url=https://github.com/Dsiman/RougeShadow-MoreFish]Git-RougeShadow-MoreFish[/url]
+[url=https://github.com/Dsiman/RougeShadow-MoreScenes]Git-RougeShadow-MoreScenes[/url]
+
+[b]Nexus Mods[/b]
+[url=https://www.nexusmods.com/aboutfishing/mods/1]NexusMods-RougeShadow-ModLoaderConfig[/url]
+[url=https://www.nexusmods.com/aboutfishing/mods/2]NexusMods-RougeShadow-DebugUnlocker[/url]
+[url=https://www.nexusmods.com/aboutfishing/mods/3]NexusMods-RougeShadow-MoreFish[/url]
+[url=https://www.nexusmods.com/aboutfishing/mods/4]NexusMods-RougeShadow-MoreScenes[/url]
+
+[line]
+
 [heading]Shout Outs[/heading]
 Thanks to the developer for building this menu into the game in the first place. All this mod does is unlock the ability to use it.
