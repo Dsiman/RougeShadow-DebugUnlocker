@@ -42,23 +42,19 @@ When spawning an item, close the debug menu and open your inventory to place the
 [heading]Requirements[/heading]
 [list]
 [*]Godot Mod Loader: [url=https://github.com/GodotModding/godot-mod-loader]GodotModding/godot-mod-loader[/url]
+[*]RougeShadow-ModLoaderConfig: [url=https://www.nexusmods.com/aboutfishing/mods/1]Nexus[/url] | [url=https://github.com/Dsiman/RougeShadow-ModLoaderConfig]Git[/url] (to get ModLoader actually working on this specific compiled game, or generate the equivalent files yourself).
 [/list]
 
 [line]
 
-[heading]Related Mods & Links[/heading]
-[b]GitHub[/b]
-[url=https://github.com/Dsiman/RougeShadow-ModLoaderConfig]Git-RougeShadow-ModLoaderConfig[/url]
-[url=https://github.com/Dsiman/RougeShadow-DebugUnlocker]Git-RougeShadow-DebugUnlocker[/url]
-[url=https://github.com/Dsiman/RougeShadow-DebugConsole]Git-RougeShadow-DebugConsole[/url]
-[url=https://github.com/Dsiman/RougeShadow-MoreFish]Git-RougeShadow-MoreFish[/url]
-[url=https://github.com/Dsiman/RougeShadow-MoreScenes]Git-RougeShadow-MoreScenes[/url]
-
-[b]Nexus Mods[/b]
-[url=https://www.nexusmods.com/aboutfishing/mods/1]NexusMods-RougeShadow-ModLoaderConfig[/url]
-[url=https://www.nexusmods.com/aboutfishing/mods/2]NexusMods-RougeShadow-DebugUnlocker[/url]
-[url=https://www.nexusmods.com/aboutfishing/mods/3]NexusMods-RougeShadow-MoreFish[/url]
-[url=https://www.nexusmods.com/aboutfishing/mods/4]NexusMods-RougeShadow-MoreScenes[/url]
+[heading]My Mods[/heading]
+[list]
+[*]RougeShadow-ModLoaderConfig([url=https://www.nexusmods.com/aboutfishing/mods/1]Nexus[/url][url=https://github.com/Dsiman/RougeShadow-ModLoaderConfig]Git[/url])
+[*]RougeShadow-DebugUnlocker([url=https://www.nexusmods.com/aboutfishing/mods/2]Nexus[/url][url=https://github.com/Dsiman/RougeShadow-DebugUnlocker]Git[/url])
+[*]RougeShadow-DebugConsole([url=https://github.com/Dsiman/RougeShadow-DebugConsole]Git[/url])
+[*]RougeShadow-MoreFish([url=https://www.nexusmods.com/aboutfishing/mods/3]Nexus[/url][url=https://github.com/Dsiman/RougeShadow-MoreFish]Git[/url])
+[*]RougeShadow-MoreScenes([url=https://www.nexusmods.com/aboutfishing/mods/4]Nexus[/url][url=https://github.com/Dsiman/RougeShadow-MoreScenes]Git[/url])
+[/list]
 
 [line]
 
